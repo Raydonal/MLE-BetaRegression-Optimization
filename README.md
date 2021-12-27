@@ -22,4 +22,4 @@ of parameters that are hard to be estimated.
 
 ## Reproducible information on paper
 
- Codes and instances are provided dir Etapa 1
+ Codes and instances are provided in dir Etapa 1
